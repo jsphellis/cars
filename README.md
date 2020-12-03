@@ -1,3 +1,11 @@
+# Identifying Information:
+
+Name: Joseph Ellis
+Student ID: 2375018
+Email: joellis@chapman.edu
+Class: CPSC-298-01
+Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
